@@ -1,2 +1,5 @@
 .ipynb_checkpoints
-data/sales_ram.csv
+data/*
+
+!data/Data.zip
+!data/profile
