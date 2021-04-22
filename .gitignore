@@ -2,8 +2,13 @@
 data/*
 src/DM_ZHANG_TASK4/*
 src/DM_ZHANG_TASK3/*
+src/DM_ZHANG_TASK2/*
+src/DM_ZHANG_TASK1/*
 
 !data/Data.zip
 !data/profile
-!data/DM_ZHANG_TASK4/patterns_and_rules_mining.ipynb
-!data/DM_ZHANG_TASK3/data_prediction_analysis.ipynb
+!src/DM_ZHANG_TASK4/patterns_and_rules_mining.ipynb
+!src/DM_ZHANG_TASK3/data_prediction_analysis.ipynb
+!src/DM_ZHANG_TASK2/data_clustering.ipynb
+!src/DM_ZHANG_TASK1/data_understanding_preparation.ipynb
+
